@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1843F7&width=500&lines=Hi%2C+name's+Palliyath%2C+Pranav+Palliyath)](https://git.io/typing-svg)
 
 <!--
 **glockpop420/glockpop420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
